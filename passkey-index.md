@@ -60,11 +60,13 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Microsoft | [microsoft.com](http://microsoft.com/) |
 | Money Forward ID | [https://id.moneyforward.com/sign\_in/new](https://id.moneyforward.com/sign_in/new) |
 | Nintendo | [https://www.nintendo.com/](https://www.nintendo.com/) |
+| npm | <https://www.npmjs.com/settings/USERNAME/tfa/list> |
 | Nvidia | [nvidia.com](http://nvidia.com/) |
 | Okta | [okta.com](http://okta.com/) |
 | Omg.lol | [omg.lol](https://omg.lol) |
 | Pastry | [pastry.net](http://pastry.net/) |
 | PayPal | [https://www.paypal.com/signin/](https://www.paypal.com/signin/) |
+| Pypi | <https://pypi.org/manage/account/webauthn-provision> |
 | Qapital | [qapital.com](http://qapital.com/) |
 | Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
 | Shop Pay | [shop.app](https://shop.app) |
